@@ -1,0 +1,8 @@
+,Test RMSE,Test R2
+Train mean,0.3648,0.0
+Persistence,0.309,0.2823
+HAR-RV,0.2765,0.4256
+Ridge,0.4224,-0.3404
+LSTM,0.3184,0.2384
+Transformer,0.309,0.2824
+Hybrid,0.3103,0.2764

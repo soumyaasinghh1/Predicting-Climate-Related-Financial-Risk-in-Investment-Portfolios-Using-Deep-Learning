@@ -1,0 +1,5 @@
+,Median cum. return,Ann. volatility,Avg max drawdown,CVaR95 (monthly),Return gap vs baseline,Vulnerability score,Rating
+No-shock baseline,37.317,0.1576,-0.2297,-0.0911,0.0,0.0,Low
+Net Zero 2050,18.1585,0.1576,-0.2483,-0.0934,19.1585,0.6832,High
+Delayed Transition,12.8223,0.1576,-0.2609,-0.0945,24.4947,1.0,High
+Current Policies,36.7134,0.1576,-0.23,-0.0912,0.6036,0.0168,Low

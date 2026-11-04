@@ -1,0 +1,19 @@
+scenario,year,carbon,gdp_pct
+Net Zero 2050,2025,30,0.0
+Net Zero 2050,2030,150,-1.0
+Net Zero 2050,2035,250,-1.5
+Net Zero 2050,2040,350,-2.0
+Net Zero 2050,2045,430,-2.0
+Net Zero 2050,2050,500,-2.0
+Delayed Transition,2025,20,0.0
+Delayed Transition,2030,20,0.0
+Delayed Transition,2035,300,-3.0
+Delayed Transition,2040,450,-4.0
+Delayed Transition,2045,520,-4.0
+Delayed Transition,2050,600,-3.5
+Current Policies,2025,10,0.0
+Current Policies,2030,12,0.0
+Current Policies,2035,15,0.0
+Current Policies,2040,18,0.0
+Current Policies,2045,20,0.0
+Current Policies,2050,22,0.0

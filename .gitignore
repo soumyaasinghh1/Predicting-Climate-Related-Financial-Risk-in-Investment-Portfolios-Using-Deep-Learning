@@ -1,0 +1,14 @@
+# virtual environment and caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# downloaded market/macro data (re-created automatically by the script)
+data/prices_daily.csv
+data/fred_daily.csv
+data/prices.csv
+data/fred.csv
+
+# keep this one: the NGFS scenario file the code needs
+!data/ngfs_scenarios.csv
